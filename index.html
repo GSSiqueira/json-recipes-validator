@@ -9,15 +9,31 @@
 <body>
     <header>
         <h1>Validador de Receitas</h1>
+        <menu>
+            <ul>
+                <li><a href="#" class="active" id="newTab" onclick="newTabActive()">Nova Receita</a></li>
+                <li><a href="#" class="inactive" id="validateTab" onclick="validateTabActive()">Validar JSON</a></li>
+                <li><a href="#" class="inactive" id="listTab" onclick="listTabActive()">Listar Receitas</a></li>
+            </ul>
+        </menu>
     </header>
     <main>
-        <section id="insert-json">
+        <section id="insertJSON">
             <form action="validateJSON()">
                 <textarea name="initialJSON" id="initialJSON" rows="15" cols="50" placeholder="Insira o JSON da receita aqui." required></textarea>
             </form>
             <input type="submit" value="Validar">
         </section>
-        <section id="edit-json">
+        <section id="editJSON">
+            <form action="addNewJSON()">
+                <input name="recipe-name" id="irecipe-name" type="text">
+                <input type="submit" value="Adicionar">                
+            </form>
+        </section>
+        <section id="listJSON">
+            <table id="recipes-list">
+                <caption>Lista de Receitas</caption>
+            </table>
         </section>
     </main>
     <script src="scripts.js" defer></script>
