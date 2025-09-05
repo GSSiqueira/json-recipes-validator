@@ -5,6 +5,10 @@ function newTabActive(){
     newTab.classList.remove('inactive');
     validateTab.classList.remove('active');
     listTab.classList.remove('active');
+
+    insertJSON.style.display = "block";
+    editJSON.style.display = "none";
+    listJSON.style.display = "none";
 }
 
 function validateTabActive(){
@@ -14,6 +18,10 @@ function validateTabActive(){
     newTab.classList.remove('active');
     validateTab.classList.remove('inactive');
     listTab.classList.remove('active');
+
+    insertJSON.style.display = "none";
+    editJSON.style.display = "block";
+    listJSON.style.display = "none";
 }
 
 function listTabActive(){
@@ -24,5 +32,7 @@ function listTabActive(){
     validateTab.classList.remove('active');
     listTab.classList.remove('inactive');
 
-
+    insertJSON.style.display = "none";
+    editJSON.style.display = "none";
+    listJSON.style.display = "block";
 }
