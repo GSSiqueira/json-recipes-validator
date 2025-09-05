@@ -1,4 +1,18 @@
-function newTabActive(){
+document.getElementById('insertForm').addEventListener('submit', function (event) {
+    event.preventDefault();
+    const recipeJSON = initialJSON.value;
+    try{
+        const recipeObj = JSON.parse(recipeJSON);
+        console.log(recipeObj);
+
+    }
+    catch(e){
+        alert("O texto inserido não é um JSON válido!");
+    }
+    
+});
+
+function newTabActive() {
     newTab.classList.add('active');
     validateTab.classList.add('inactive');
     listTab.classList.add('inactive');
@@ -11,7 +25,7 @@ function newTabActive(){
     listJSON.style.display = "none";
 }
 
-function validateTabActive(){
+function validateTabActive() {
     newTab.classList.add('inactive');
     validateTab.classList.add('active');
     listTab.classList.add('inactive');
@@ -24,7 +38,7 @@ function validateTabActive(){
     listJSON.style.display = "none";
 }
 
-function listTabActive(){
+function listTabActive() {
     newTab.classList.add('inactive');
     validateTab.classList.add('inactive');
     listTab.classList.add('active');
