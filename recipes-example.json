@@ -1,0 +1,303 @@
+{
+    "recipes": [
+        {
+            "id": "0",
+            "name": "Homus",
+            "category": "entradas",
+            "details": {
+                "prepTime": "10 min",
+                "portions": "6",
+                "source": "https://panelinha.com.br/receita/homus-a-jato"
+            },
+            "ingredients": {
+                "Completa": [
+                    {
+                        "name": "grão de bico cozido",
+                        "amount": "1 lata"
+                    },
+                    {
+                        "name": "tahine",
+                        "amount": "3 colheres (sopa)"
+                    },
+                    {
+                        "name": "caldo de limão",
+                        "amount": "1/2 unidade"
+                    },
+                    {
+                        "name": "alho",
+                        "amount": "1 dente"
+                    },
+                    {
+                        "name": "sal",
+                        "amount": "a gosto"
+                    },
+                    {
+                        "name": "agua",
+                        "amount": "a gosto"
+                    }
+                ]
+            },
+            "instructions": {
+                "Completa": {
+                    "1": "Passe o grão-de-bico por uma peneira e deixe escorrer bem a água.",
+                    "2": "Transfira para uma tigela, junte o alho, o caldo de limão e o tahine.",
+                    "3": "Bata com um mixer (se preferir use o processador) até ficar liso - adicione água aos poucos e vá batendo para ficar na consistência desejada (mais rústica ou mais lisa e cremosa). Tempere com sal a gosto, misture bem e sirva a seguir ou leve à geladeira."
+                }
+            }
+        },
+        {
+            "id": "1",
+            "name": "Arroz árabe com carne moída e especiarias (hashweh)",
+            "category": "principais",
+            "details": {
+                "prepTime": "1h",
+                "portions": "4",
+                "source": "https://panelinha.com.br/receita/arroz-arabe-perfumado-com-carne-moida"
+            },
+            "ingredients": {
+                "Saladinha de Tomate": [
+                    {
+                        "name": "tomates maduros",
+                        "amount": "3 unidades"
+                    },
+                    {
+                        "name": "castanha-de-caju torrada sem sal picada",
+                        "amount": "¼ de xícara (chá)"
+                    },
+                    {
+                        "name": "azeite",
+                        "amount": "1 colher (sopa)"
+                    },
+                    {
+                        "name": "caldo de limão",
+                        "amount": "1 unidade"
+                    },
+                    {
+                        "name": "folhas de hortelã picadas",
+                        "amount": "a gosto"
+                    },
+                    {
+                        "name": "sal e pimenta-do-reino",
+                        "amount": "a gosto"
+                    }
+                ],
+                "Arroz": [
+                    {
+                        "name": "arroz",
+                        "amount": "1 xícara (chá)"
+                    },
+                    {
+                        "name": "água",
+                        "amount": "2 xícaras (chá)"
+                    },
+                    {
+                        "name": "patinho moído",
+                        "amount": "250 g"
+                    },
+                    {
+                        "name": "cebolas",
+                        "amount": "2 unidades"
+                    },
+                    {
+                        "name": "uva-passa branca",
+                        "amount": "¼ de xícara (chá)"
+                    },
+                    {
+                        "name": "manteiga",
+                        "amount": "3 colheres (sopa)"
+                    },
+                    {
+                        "name": "azeite",
+                        "amount": "1 colher (sopa)"
+                    },
+                    {
+                        "name": "folha de louro",
+                        "amount": "1 unidade"
+                    },
+                    {
+                        "name": "pimenta síria",
+                        "amount": "½ colher (chá)"
+                    },
+                    {
+                        "name": "cominho",
+                        "amount": "1 colher (chá)"
+                    },
+                    {
+                        "name": "páprica doce",
+                        "amount": "1 colher (chá)"
+                    },
+                    {
+                        "name": "canela em pó",
+                        "amount": "½ colher (chá)"
+                    },
+                    {
+                        "name": "açúcar",
+                        "amount": "1 pitada"
+                    },
+                    {
+                        "name": "sal e pimenta-do-reino",
+                        "amount": "a gosto"
+                    }
+                ]
+            },
+            "instructions": {
+                "Saladinha de Tomate": {
+                    "1": "Lave, seque e corte os tomates ao meio; descarte as sementes e corte cada metade em cubos de 0,5 cm.",
+                    "2": "Transfira para uma tigela, tempere com o azeite, o caldo de limão, sal e pimenta a gosto.",
+                    "3": "Misture as folhas de hortelã e deixe na geladeira enquanto prepara o arroz.",
+                    "4": "Na hora de servir, misture a castanha picada."
+                },
+                "Arroz": {
+                    "1": "Numa chaleira, leve um pouco mais de 2 xícaras (chá) de água ao fogo alto para ferver.",
+                    "2": "Leve uma panela pequena ao fogo baixo. Quando aquecer, regue com 1 colher (sopa) de azeite, junte o arroz, a folha de louro e refogue por 1 minuto para envolver os grãos com o azeite.",
+                    "3": "Meça 2 xícaras (chá) de água fervente e regue o arroz. Misture ½ colher (chá) de sal, aumente o fogo para médio e deixe cozinhar até a água atingir o nível do arroz.",
+                    "4": "Abaixe o fogo, tampe parcialmente a panela e deixe o arroz cozinhar até absorver toda a água. Desligue o fogo e mantenha a panela tampada por mais 5 minutos.",
+                    "5": "Enquanto o arroz cozinha, prepare a cebola. Descasque e fatie a cebola em meias-luas finas.",
+                    "6": "Leve uma frigideira grande com 2 colheres (sopa) de manteiga ao fogo médio. Quando derreter, acrescente a cebola, tempere com uma pitada de sal e de açúcar e deixe cozinhar por cerca de 15 minutos até caramelizar.",
+                    "7": "Afaste a cebola para a lateral da frigideira e acrescente mais 1 colher (sopa) de manteiga, junte a carne moída, tempere com a pimenta síria, o cominho, a páprica, a canela, 1 colher (chá) de sal, pimenta-do-reino e refogue por 5 minutos.",
+                    "8": "Junte a uva-passa e misture bem.",
+                    "9": "Solte os grãos de arroz com um garfo e acrescente ao refogado de carne, mexa por mais 5 minutos para absorver o sabor do refogado.",
+                    "10": "Regue com ¼ de xícara (chá) de água, desligue o fogo e misture bem para deixar o arroz úmido. Sirva a seguir com a saladinha de tomate."
+                }
+            }
+        },
+        {
+            "id": "2",
+            "name": "Salsa Mexicana",
+            "category": "entradas",
+            "details": {
+                "prepTime": "5 min",
+                "portions": "4",
+                "source": "https://www.recipetineats.com/salsa-super-easy-restaurant-style/"
+            },
+            "ingredients": {
+                "Completa": [
+                    {
+                        "name": "cebola picada (branca, roxa ou amarela)",
+                        "amount": "1/4 xícara"
+                    },
+                    {
+                        "name": "tomate pelado enlatado",
+                        "amount": "400g"
+                    },
+                    {
+                        "name": "pimentas jalapeño em conserva",
+                        "amount": "120g"
+                    },
+                    {
+                        "name": "coentro picado grosseiramente",
+                        "amount": "1/4 xícara"
+                    },
+                    {
+                        "name": "suco de limão",
+                        "amount": "1/2 colher (sopa)"
+                    },
+                    {
+                        "name": "alho picado",
+                        "amount": "1 dente"
+                    },
+                    {
+                        "name": "açúcar",
+                        "amount": "1/2 colher (chá)"
+                    },
+                    {
+                        "name": "sal",
+                        "amount": "1/2 colher (chá)"
+                    },
+                    {
+                        "name": "pimenta-do-reino moída",
+                        "amount": "1/4 colher (chá)"
+                    },
+                    {
+                        "name": "cominho em pó",
+                        "amount": "1/4 colher (chá)"
+                    }
+                ]
+            },
+            "instructions": {
+                "Completa": {
+                    "1": "Coloque a cebola e a pimenta jalapeño no processador de alimentos primeiro, depois adicione os ingredientes restantes (comece com 1/2 colher de sopa de suco de limão).",
+                    "2": "Bata até obter a consistência desejada - o ideal é que fique bem lisa, pois realça o sabor da cebola, etc.",
+                    "3": "Prove com um salgadinho de milho para ajustar o sal e o limão, se necessário.",
+                    "4": "Leve à geladeira por 1 hora antes de servir com salgadinhos de milho ou outros acompanhamentos."
+                }
+            }
+        },
+        {
+            "id": "3",
+            "name": "Molho de Cachorro-Quente",
+            "category": "principais",
+            "details": {
+                "prepTime": "Aproximadamente 20 min",
+                "portions": "Não especificado",
+                "source": "https://www.youtube.com/watch?v=jrqSGmxgVt0"
+            },
+            "ingredients": {
+                "Completa": [
+                    {
+                        "name": "salsicha",
+                        "amount": "Aprox. 20 salsichas"
+                    },
+                    {
+                        "name": "azeite ou óleo",
+                        "amount": "a gosto"
+                    },
+                    {
+                        "name": "cebola picada",
+                        "amount": "1 unidade"
+                    },
+                    {
+                        "name": "dentes de alho espremidos",
+                        "amount": "2"
+                    },
+                    {
+                        "name": "extrato de tomate",
+                        "amount": "3 colheres (sopa) ou 50 g"
+                    },
+                    {
+                        "name": "tomate picado",
+                        "amount": "200 g ou 2-3 tomates"
+                    },
+                    {
+                        "name": "água",
+                        "amount": "1 xícara (240 ml)"
+                    },
+                    {
+                        "name": "sal",
+                        "amount": "a gosto"
+                    },
+                    {
+                        "name": "páprica ou orégano",
+                        "amount": "opcional"
+                    },
+                    {
+                        "name": "folhas de louro",
+                        "amount": "opcional"
+                    },
+                    {
+                        "name": "cheiro-verde (salsinha)",
+                        "amount": "opcional"
+                    },
+                    {
+                        "name": "milho, ervilha, azeitona",
+                        "amount": "opcional"
+                    }
+                ]
+            },
+            "instructions": {
+                "Completa": {
+                    "1": "Comece fervendo a salsicha em rodelas (ou inteira, se preferir) para retirar o excesso de gordura.",
+                    "2": "Coloque a salsicha picada em uma panela, cubra com água e ligue o fogo. Quando a água ferver, conte 3 minutos, desligue o fogo e escorra a água.",
+                    "3": "Na mesma panela, coloque um fio generoso de azeite e refogue o alho e a cebola picadinha até ela começar a ficar transparente.",
+                    "4": "Adicione o extrato de tomate e deixe-o refogar por cerca de 3 minutos, dando uma leve 'pegada' no fundo da panela.",
+                    "5": "Em seguida, coloque o tomate picado e mexa. Adicione a água e o sal, misture bem e deixe cozinhar por 10 a 15 minutos em fogo baixo com a panela tampada. A cada 3 ou 4 minutos, mexa o molho para não queimar.",
+                    "6": "Após o cozimento do molho, adicione a salsicha já cozida e o cheiro-verde (opcional). Se desejar, adicione outros ingredientes, como milho, ervilha ou azeitona.",
+                    "7": "Cozinhe por mais 4 minutos para a salsicha pegar o gosto do molho e sirva a seguir com pão de leite e batata palha."
+                }
+            },
+            "extras": {
+                "1": "Também é possível cozinhar as salsichas diretamente no molho de tomate para agilizar o processo. Basta adicionar as salsichas cortadas ou inteiras quando o molho ainda estiver cozinhando, cerca de 5 minutos antes de finalizar."
+            }
+        }
+    ]
+}
