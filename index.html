@@ -20,14 +20,15 @@
     <main>
         <section id="insertJSON" >
             <form id="insertForm" action="">
-                <textarea name="initialJSON" id="initialJSON" rows="15" cols="50" placeholder="Insira o JSON da receita aqui." required></textarea>
+                <label for="initialJSON">JSON da Receita</label><textarea name="initialJSON" id="initialJSON" rows="15" cols="50" placeholder="Insira o JSON da receita aqui." required></textarea>
                 <input type="submit" value="Validar">
             </form>
         </section>
         <section id="editJSON">
             <form action="addNewJSON()">
-                <input name="recipe-name" id="irecipe-name" type="text">
-                <input type="submit" value="Adicionar">                
+                <label for="recipeId">ID: </label><input type="number" name="recipeId" id="recipeId" required>
+                <label for="recipeName">Nome: </label><input name="recipeName" id="recipeName" type="text" required>
+                <input type="submit" value="Adicionar">                           
             </form>
         </section>
         <section id="listJSON">

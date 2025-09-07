@@ -4,7 +4,8 @@ document.getElementById('insertForm').addEventListener('submit', function (event
     try{
         const recipeObj = JSON.parse(recipeJSON);
         console.log(recipeObj);
-
+        validateTabActive();
+        //validateJSON(recipeObj) ? recipeIsValid(true) : recipeIsValid(false);
     }
     catch(e){
         alert("O texto inserido não é um JSON válido!");
@@ -50,3 +51,5 @@ function listTabActive() {
     editJSON.style.display = "none";
     listJSON.style.display = "block";
 }
+
+function validateJSON(recipe){}
