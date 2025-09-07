@@ -1,3 +1,5 @@
+
+//Insertion Form Submit Button Event
 document.getElementById('insertForm').addEventListener('submit', function (event) {
     event.preventDefault();
     const recipeJSON = initialJSON.value;
@@ -52,4 +54,8 @@ function listTabActive() {
     listJSON.style.display = "block";
 }
 
-function validateJSON(recipe){}
+function validateJSON(recipe){
+    
+}
+
+function recipeIsValid(isValid){}
